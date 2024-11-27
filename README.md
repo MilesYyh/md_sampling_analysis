@@ -1,6 +1,8 @@
 # md_sampling_analysis
 
-@TODO:complete the README instroductio
+@TODO:complete the README instroduction
+
+@CODE work fine.
 
 @TODO:
 
